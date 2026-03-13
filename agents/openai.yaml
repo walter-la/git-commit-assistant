@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Commit Assistant"
+  short_description: "分析 Git 變更並拆成合理的繁中 commits"
+  default_prompt: "Use $git-commit-assistant to analyze the current Git working tree, propose atomic commits, and generate Traditional Chinese commit messages."
